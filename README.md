@@ -11,7 +11,7 @@
 <!-- İstediğin diğer logolar -->
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=edizarkinkobak&theme=tokyonight&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdizArkin&theme=tokyonight&show_icons=true)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edizarkinkobak)
