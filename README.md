@@ -1,7 +1,7 @@
 # Hi, I'm Ediz Arkın Kobak! 👋
 
 ## About me
-- 3rd Year Computer Engineering Student at Izmir University of Economics
+- 3rd Year Computer Engineering Student at Izmir University of Economics  
 - Interested in AI, Machine Learning, Deep Learning
 
 ## Tech Stack
@@ -24,14 +24,15 @@
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdizArkin&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdizArkin&theme=tokyonight&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EdizArkin&theme=tokyonight&show_icons=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdizArkin&theme=tokyonight&layout=compact" width="48%" />
+</p>
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediz-arkin-kobak)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkinediz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediz-ark%C4%B1n-kobak/)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkinediz@gmail.com) (📫arkinediz@gmail.com)
