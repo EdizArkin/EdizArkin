@@ -28,10 +28,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdizArkin&theme=tokyonight&show_icons=true" width="60%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdizArkin&theme=tokyonight&layout=compact" width="40%" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EdizArkin&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdizArkin&theme=tokyonight&layout=compact)
 
 ## Connect with me
 
