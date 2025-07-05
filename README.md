@@ -29,10 +29,19 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EdizArkin&theme=tokyonight&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdizArkin&theme=tokyonight&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EdizArkin&theme=tokyonight&show_icons=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdizArkin&theme=tokyonight&layout=compact" width="40%" />
 </p>
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediz-ark%C4%B1n-kobak/)  
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkinediz@gmail.com) (📫arkinediz@gmail.com)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ediz-ark%C4%B1n-kobak/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:arkinediz@gmail.com" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <span style="margin-left: 10px; vertical-align: middle;">📫 arkinediz@gmail.com</span>
+</p>
+
