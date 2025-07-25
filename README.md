@@ -1,8 +1,11 @@
 # Hi, I'm Ediz Arkın Kobak! 👋
 
 ## About me
-- 3rd Year Computer Engineering Student at Izmir University of Economics  
+- 4rd Year Computer Engineering Student at Izmir University of Economics  
 - Interested in AI, Machine Learning, Deep Learning
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EdizArkin&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -34,13 +37,6 @@
 
 ## Connect with me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ediz-ark%C4%B1n-kobak/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:arkinediz@gmail.com" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <span style="margin-left: 10px; vertical-align: middle;">📫 arkinediz@gmail.com</span>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ediz-ark%C4%B1n-kobak/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkinediz@gmail.com) 
 
